@@ -1,0 +1,9 @@
+{
+    "dark_mode": true,
+    "window_geometry": "1100x650",
+    "maximized": true,
+    "font_family": "Verdana",
+    "font_size": 11,
+    "default_start_page": "Dashboard",
+    "auto_backup": true
+}
