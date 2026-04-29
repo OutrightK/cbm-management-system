@@ -35,6 +35,28 @@ A desktop management application built with Python and Tkinter for managing stud
 
 ---
 
+## 📸 Screenshots
+
+### Login
+![Login](screenshots/Login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Students
+![Students](screenshots/Students.png)
+
+### Courses
+![Courses](screenshots/Courses.png)
+
+### Enrollments
+![Enrollments](screenshots/Enrollments.png)
+
+### Settings
+![Settings](screenshots/Settings.png)
+
+---
+
 ## Tech Stack
 
 - Python
